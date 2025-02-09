@@ -9,14 +9,14 @@ Related tutorial video: https://www.bilibili.com/video/BV1DGeEejEoT
 
 
 
-### 注意事项
+### Notes
 
 1. You need to purchase M2/3/3.2 heat-set inserts separately.
 2. Purchase a 15mm high EC11 rotary encoder according to your needs.
 
 
 
-### 文件列表
+### File list
 
 | 名称                        | 描述                                          |
 | --------------------------- | --------------------------------------------- |
