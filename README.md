@@ -18,7 +18,7 @@ Related tutorial video: https://www.bilibili.com/video/BV1DGeEejEoT
 
 ### File list
 
-| 名称                        | 描述                                          |
+| NAME                        | DESCRIPTION                                   |
 | --------------------------- | --------------------------------------------- |
 | Omega40_dust_cover.step     | keyboard dust cover                           |
 | Omega40_case_slim.step      | relatively low-profile, exposing the switches |
