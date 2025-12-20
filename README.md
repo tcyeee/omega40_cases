@@ -28,6 +28,19 @@ Related tutorial video: https://www.bilibili.com/video/BV1DGeEejEoT
 | knob_case.step              | The knob needs to be purchased separately     |
 
 
+### Preview
 
+![](./img/preview.png)
 
+**Omega40_case_slim**
+
+![](./img/Omega40_case_slim.png)
+
+**Omega40_case_standard**
+
+![](./img/Omega40_case_standard.png)
+
+**Omega40_dust_cover**
+
+![](./img/Omega40_dust_cover.png)
 
